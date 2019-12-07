@@ -21,3 +21,8 @@ unitest.py Fr Testing Python
 * javascript
 * Tests
 * Machin Learning
+## Running the tests
+1-javascript Test
+
+
+2-python Test
