@@ -12,3 +12,12 @@ Tensorflow.js For Machin learning in js
 R.js For Data Analytique                                                                                                                   
 Jest.js For Testing Javascript                                                                                                             
 unitest.py Fr Testing Python                                                                                                                
+## Authors
+* **Kaddour Abdelaziz**
+
+## Acknowledgments
+* odoo
+* python
+* javascript
+* Tests
+* Machin Learning
