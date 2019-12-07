@@ -3,7 +3,7 @@
 ## Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 ### Prerequisites
-Node.js 12.13.1
+Node.js 12.13.1                                                                                                                           
 Feather.js For Real time App
 odoo 11  For CRM module 
 react.js For front End 
